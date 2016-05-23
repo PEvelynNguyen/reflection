@@ -1,2 +1,3 @@
 my reflections: text writing text to file
 What happens when you initialize a repository? Why do you need to do it?
+testing git branch and git checkout branchname
